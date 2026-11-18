@@ -20,7 +20,7 @@ With an academic background in **Electrical and Electronics Engineering**, I bri
 
 **Core:** HTML5 · CSS3 · JavaScript
 
-**Tools:** Git · GitHub · Visual Studio Code · Figma
+**Tools:** Git · GitHub · Visual Studio Code ·
 
 ## Featured Projects
 
