@@ -24,24 +24,27 @@ With an academic background in **Electrical and Electronics Engineering**, I bri
 
 ## Featured Projects
 
+
 ### Radmehr Group — Corporate Website
 
-A responsive front-end website concept for a real-estate and construction company.
+A responsive corporate website concept for a real-estate and construction company.
 
-- Built with HTML, CSS, and JavaScript
-- Includes corporate pages and project-focused sections
+- Developed using HTML5, CSS3, and JavaScript
+- Responsive layouts and structured page sections
+- Interactive UI components and navigation
 
-[Live Website](https://farahnazasgharpour1-glitch.github.io/radmehr-group-portfolio/)
+[Live Demo](https://farahnazasgharpour1-glitch.github.io/radmehr-group-portfolio/)
 
 [Source Code](https://github.com/farahnazasgharpour1-glitch/radmehr-group-portfolio)
 
+
 ### Hazineban — Expense Management Dashboard
 
-A Persian, right-to-left expense-management dashboard concept.
+A Persian RTL expense-management dashboard built as a front-end portfolio project.
 
-- Designed for a clear dashboard experience
-- Includes Persian-language interface
-- Uses browser storage in the front-end version
+- Persian-language user interface
+- Responsive dashboard layout
+- Browser-based data storage using LocalStorage
 
 [Source Code](https://github.com/farahnazasgharpour1-glitch/hazineban-expense-tracker)
 
